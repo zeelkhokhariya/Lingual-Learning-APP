@@ -1,0 +1,87 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+    <path
+        android:fillColor="#fff"
+        android:name="Base"
+        android:pathData="m128.5 0c70.69 0 128 57.31 128 128c0 70.69 -57.31 128 -128 128c-70.69 0 -128 -57.31 -128 -128c0 -70.69 57.31 -128 128 -128z" />
+    <path
+        android:fillColor="#b0cea6"
+        android:name="BG"
+        android:pathData="m128.5 0c-70.69 0 -128 57.31 -128 128c0 70.69 57.31 128 128 128c70.69 0 128 -57.31 128 -128c0 -70.69 -57.31 -128 -128 -128z" />
+    <path
+        android:fillColor="#e6f0e8"
+        android:name="Bubble"
+        android:pathData="m169.56 63.33h-82.11c-23.26 0 -42.11 19.69 -42.11 43.97v19.06c0 24.29 18.85 43.97 42.11 43.97h82.11c23.26 0 42.11 -19.69 42.11 -43.97v-19.06c0 -24.29 -18.85 -43.97 -42.11 -43.97z" />
+    <path
+        android:fillColor="#e6f0e8"
+        android:name="BubbleStem"
+        android:pathData="m112.33 164c0 0 -0.35 0.44 -0.97 1.22c-5.19 6.5 -29.36 36.78 -29.36 36.78l-0.67 -39.67l31 1.67z" />
+    <path
+        android:fillColor="#ed2b2b"
+        android:name="Brick"
+        android:pathData="m74.88 118.7h56.51v21.72h-56.51v-21.72z" />
+    <path
+        android:fillColor="#ed2b2b"
+        android:name="Peg"
+        android:pathData="m79.12 113.38h7.47v8.03h-7.47v-8.03z" />
+    <path
+        android:fillColor="#ed2b2b"
+        android:name="Peg"
+        android:pathData="m92.69 113.38h7.47v8.03h-7.47v-8.03z" />
+    <path
+        android:fillColor="#ed2b2b"
+        android:name="Peg"
+        android:pathData="m106.27 113.38h7.47v8.03h-7.47v-8.03z" />
+    <path
+        android:fillColor="#ed2b2b"
+        android:name="Peg"
+        android:pathData="m118.48 113.38h7.47v8.03h-7.47v-8.03z" />
+    <path
+        android:fillColor="#2bc950"
+        android:name="Brick"
+        android:pathData="m130.53 118.7h56.51v21.72h-56.51v-21.72z" />
+    <path
+        android:fillColor="#2bc950"
+        android:name="Peg"
+        android:pathData="m134.77 113.38h7.47v8.03h-7.47v-8.03z" />
+    <path
+        android:fillColor="#2bc950"
+        android:name="Peg"
+        android:pathData="m148.35 113.38h7.47v8.03h-7.47v-8.03z" />
+    <path
+        android:fillColor="#2bc950"
+        android:name="Peg"
+        android:pathData="m161.92 113.38h7.47v8.03h-7.47v-8.03z" />
+    <path
+        android:fillColor="#2bc950"
+        android:name="Peg"
+        android:pathData="m174.14 113.38h7.47v8.03h-7.47v-8.03z" />
+    <path
+        android:fillColor="#3759e8"
+        android:name="Brick"
+        android:pathData="m103.38 97.98h56.51v21.72h-56.51v-21.72z" />
+    <path
+        android:fillColor="#3759e8"
+        android:name="Peg"
+        android:pathData="m107.62 92.66h7.47v8.03h-7.47v-8.03z" />
+    <path
+        android:fillColor="#3759e8"
+        android:name="Peg"
+        android:pathData="m121.2 92.66h7.47v8.03h-7.47v-8.03z" />
+    <path
+        android:fillColor="#3759e8"
+        android:name="Peg"
+        android:pathData="m134.77 92.66h7.47v8.03h-7.47v-8.03z" />
+    <path
+        android:fillColor="#3759e8"
+        android:name="Peg"
+        android:pathData="m146.99 92.66h7.47v8.03h-7.47v-8.03z" />
+    <path
+        android:fillColor="#000"
+        android:fillAlpha="0.1"
+        android:name="Outline"
+        android:pathData="m-0.33 127.67c0 70.58 57.42 128 128 128c70.58 0 128 -57.42 128 -128c0 -70.58 -57.42 -128 -128 -128c-70.58 0 -128 57.42 -128 128zm10.24 0c0 -64.93 52.83 -117.76 117.76 -117.76c64.93 0 117.76 52.83 117.76 117.76c0 64.93 -52.83 117.76 -117.76 117.76c-64.93 0 -117.76 -52.83 -117.76 -117.76z" />
+</vector>

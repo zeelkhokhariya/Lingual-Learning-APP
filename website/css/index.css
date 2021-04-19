@@ -1,0 +1,116 @@
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    color: #666768 !important;
+}
+
+.nav-item.active .nav-link, .nav-item:hover .nav-link {
+    color: #666768;
+    border-top-color: #666768;
+}
+
+.nav-item:hover .nav-link-highlight, .nav-item.active .nav-link-highlight {
+    background-color: #666768 !important;
+}
+
+#home {
+    padding-top: 30px;
+    padding-bottom: 68px;
+}
+
+.home-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-left {
+    width: 420px;
+    margin-right: 185px;
+}
+
+.slogan {
+    font-size: 1.4rem;
+    margin-bottom: 30px;
+}
+
+.home-hr {
+    border-top-color: white;
+    margin-bottom: 30px;
+}
+
+.home-title {
+    font-size: 3.5rem;
+    margin-bottom: 40px;
+}
+
+.home-text {
+    margin-bottom: 47px;
+    max-height: 210px;
+    overflow-y: auto;
+}
+
+.btn-primary {
+    background-color: #fff;
+    border: none;
+    color: #3E3F40;
+}
+
+.home-right {
+    width: 336px;
+    height: 626px;
+    border-radius: 15px;
+    padding: 18px 5px;
+    border: 3px solid #fff;
+    position: relative;
+}
+
+.home-right img {
+    position: absolute;
+    top: 18px;
+    right: 5px;
+    bottom: 18px;
+    left: 5px;
+    width: 320px;
+    height: 590px;
+    border-radius: inherit;
+}
+
+.home-right img:not(:first-child) {
+    display: none;
+}
+
+#features {
+    padding-top: 68px;
+    padding-bottom: 60px;
+    width: 1260px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feature-box {
+    max-width: 360px;
+    min-height: 480px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feature-name {
+    color: black;
+    margin-bottom: 50px;
+    min-height: 66px;
+}
+
+.feature-icon-container {
+    width: 110px;
+    height: 110px;
+    border: 1px solid #3E3F40;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+}

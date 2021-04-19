@@ -1,0 +1,85 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+    <path
+        android:fillColor="#fff"
+        android:name="Base"
+        android:pathData="m128.5 0c70.69 0 128 57.31 128 128c0 70.69 -57.31 128 -128 128c-70.69 0 -128 -57.31 -128 -128c0 -70.69 57.31 -128 128 -128z" />
+    <path
+        android:fillColor="#555"
+        android:name="Shape 1"
+        android:pathData="m26.71 59.93v15.76h116.24v-15.76z" />
+    <path
+        android:fillColor="#555"
+        android:name="Shape 1 copy"
+        android:pathData="m152.11 59.93v15.76h93.25c-2.45 -5.47 -5.27 -10.73 -8.44 -15.76z" />
+    <path
+        android:fillColor="#555"
+        android:name="Shape 1 copy 2"
+        android:pathData="m7.05 87.47c-1.71 5.12 -3.1 10.38 -4.15 15.76h68.4v-15.76z" />
+    <path
+        android:fillColor="#555"
+        android:name="Shape 1 copy 3"
+        android:pathData="m80.45 87.47v15.76h98.72v-15.76z" />
+    <path
+        android:fillColor="#555"
+        android:name="Shape 1 copy 4"
+        android:pathData="m187.94 87.47v15.76h66.16c-1.06 -5.38 -2.45 -10.64 -4.15 -15.76z" />
+    <path
+        android:fillColor="#555"
+        android:name="Shape 1 copy 10"
+        android:pathData="m9.8 175.98c2.2 5.45 4.77 10.71 7.68 15.76h53.82v-15.76z" />
+    <path
+        android:fillColor="#555"
+        android:name="Shape 1 copy 11"
+        android:pathData="m80.45 175.98v15.76h98.72v-15.76z" />
+    <path
+        android:fillColor="#555"
+        android:name="Shape 1 copy 12"
+        android:pathData="m187.94 175.98v15.76h51.59c2.9 -5.05 5.47 -10.31 7.68 -15.76z" />
+    <path
+        android:fillColor="#555"
+        android:name="Shape 1 copy 5"
+        android:pathData="m0.82 118.94c-0.21 2.99 -0.32 6.01 -0.32 9.06c0 2.25 0.06 4.48 0.17 6.7h111.23v-15.76z" />
+    <path
+        android:fillColor="#555"
+        android:name="Shape 1 copy 6"
+        android:pathData="m121.05 118.94v15.76h135.27c0.11 -2.22 0.17 -4.45 0.17 -6.7c0 -3.05 -0.11 -6.07 -0.32 -9.06z" />
+    <path
+        android:fillColor="#555"
+        android:name="Shape 1 copy 7"
+        android:pathData="m1.82 146.48c0.78 5.37 1.88 10.63 3.31 15.76h35.11v-15.76z" />
+    <path
+        android:fillColor="#555"
+        android:name="Shape 1 copy 8"
+        android:pathData="m49.4 146.48v15.76h98.72v-15.76z" />
+    <path
+        android:fillColor="#555"
+        android:name="Shape 1 copy 9"
+        android:pathData="m156.89 146.48v15.76h94.99c1.42 -5.13 2.53 -10.39 3.31 -15.76z" />
+    <path
+        android:fillColor="#8a6330"
+        android:name="Handle"
+        android:pathData="m185.16 163.6 -10.45 10.45 44.38 44.38c3.49 -3.49 6.78 -7.19 9.84 -11.06l-43.77 -43.77z" />
+    <path
+        android:fillColor="#79ceff"
+        android:fillAlpha="0.5"
+        android:name="Glass"
+        android:pathData="m136.57 65.96c33.83 0 61.25 27.42 61.25 61.25c0 33.83 -27.42 61.25 -61.25 61.25c-33.83 0 -61.25 -27.42 -61.25 -61.25c0 -33.83 27.42 -61.25 61.25 -61.25z" />
+    <path
+        android:fillColor="#aaa"
+        android:name="GlassEdge"
+        android:pathData="m71.77 127.18c0 35.38 28.88 64.17 64.38 64.17c35.5 0 64.38 -28.78 64.38 -64.17c0 -35.38 -28.88 -64.17 -64.38 -64.17c-35.5 0 -64.38 28.78 -64.38 64.17zm5.15 0c0 -32.55 26.57 -59.03 59.23 -59.03c32.66 0 59.23 26.48 59.23 59.03c0 32.55 -26.57 59.03 -59.23 59.03c-32.66 0 -59.23 -26.48 -59.23 -59.03z" />
+    <path
+        android:fillColor="#fff"
+        android:fillAlpha="0.6"
+        android:name="Outline copy"
+        android:pathData="m-0.33 127.67c0 70.58 57.61 128 128.42 128c70.81 0 128.42 -57.42 128.42 -128c0 -70.58 -57.61 -128 -128.42 -128c-70.81 0 -128.42 57.42 -128.42 128zm10.27 0c0 -64.93 53 -117.76 118.15 -117.76c65.15 0 118.15 52.83 118.15 117.76c0 64.93 -53 117.76 -118.15 117.76c-65.15 0 -118.15 -52.83 -118.15 -117.76z" />
+    <path
+        android:fillColor="#000"
+        android:fillAlpha="0.1"
+        android:name="Outline"
+        android:pathData="m-0.33 127.67c0 70.58 57.42 128 128 128c70.58 0 128 -57.42 128 -128c0 -70.58 -57.42 -128 -128 -128c-70.58 0 -128 57.42 -128 128zm10.24 0c0 -64.93 52.83 -117.76 117.76 -117.76c64.93 0 117.76 52.83 117.76 117.76c0 64.93 -52.83 117.76 -117.76 117.76c-64.93 0 -117.76 -52.83 -117.76 -117.76z" />
+</vector>

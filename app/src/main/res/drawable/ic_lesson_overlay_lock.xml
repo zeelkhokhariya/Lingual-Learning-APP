@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+    <path
+        android:fillColor="#888"
+        android:fillAlpha="0.75"
+        android:name="Base"
+        android:pathData="m130.5 0c70.69 0 128 57.31 128 128c0 70.69 -57.31 128 -128 128c-70.69 0 -128 -57.31 -128 -128c0 -70.69 57.31 -128 128 -128z" />
+    <path
+        android:fillColor="#000"
+        android:fillAlpha="0.1"
+        android:name="Outline"
+        android:pathData="m-0.33 127.67c0 70.58 57.42 128 128 128c70.58 0 128 -57.42 128 -128c0 -70.58 -57.42 -128 -128 -128c-70.58 0 -128 57.42 -128 128zm10.24 0c0 -64.93 52.83 -117.76 117.76 -117.76c64.93 0 117.76 52.83 117.76 117.76c0 64.93 -52.83 117.76 -117.76 117.76c-64.93 0 -117.76 -52.83 -117.76 -117.76z" />
+    <path
+        android:fillColor="#000"
+        android:name="Block"
+        android:pathData="m84.75 103.5h85.75c5.52 0 10 4.48 10 10v59.75c0 5.52 -4.48 10 -10 10h-85.75c-5.52 0 -10 -4.48 -10 -10v-59.75c0 -5.52 4.48 -10 10 -10z" />
+    <path
+        android:fillColor="#000"
+        android:name="Bar"
+        android:pathData="m127.75 48.25c-22.09 0 -40 17.91 -40 40v25.5h9.75v-23.25c0 -16.57 13.43 -30 30 -30c16.57 0 30 13.43 30 30v23.25h10.25v-25.5c0 -22.09 -17.91 -40 -40 -40z" />
+</vector>

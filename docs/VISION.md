@@ -1,0 +1,15 @@
+# **Lingual** – A Language Learning App
+
+### Vision Statement
+
+For native English-speaking adults who are looking to learn a new language completely from scratch, Lingual is a language learning application that offers a variety of methods for a user to practice their pronunciation, comprehension, reading, and writing of a new language. Learning a language can be difficult, but Lingual was created to make learning a new language fun and manageable through a variety of lesson plans and interactive review exercises. 
+
+Lingual has a variety of languages to choose from, each with its own custom language learning path tailored to the native English speaker. Each language path consists of multiple lessons accompanied by comprehensive documentation as well as a short test to help the user practice what they just learned. After users complete language lessons, they can go back to review them at any time or move on to more advanced topics. 
+
+Unlike other language learning apps, Lingual allows users to choose what they want to learn about their target language by splitting up language learning points of focus such as vocabulary, symbols, and tenses into separate categories to allow for a more customized and organized way to learn a new language. Lingual also allows users to review the vocabulary, symbols, and tenses they have learned from completed lessons at any time with various review methods to choose from.
+
+Lingual will be considered successful if users are able to complete a set of lessons for a given language. A set of lessons varies in size depending on the entry level and language. For each language and level the user would like to begin at, there will be an estimated time for how long it will take the user to complete the lessons for the language. If the user is able to complete a set of lessons it will show that they were able to successfully learn part of a new language. Lingual from a business side will be a successful application if out of the estimated 100 million English speakers seeking to learn another language, Lingual can be used by 1% of that sample, equivalent to 1 million users. 
+
+In the future, Lingual can be expanded with new languages for users to choose from as well as further lessons for languages the app already includes can be added. By adding more languages to Lingual, it will give a user more choices to choose from and draw in more users to use our app. In addition, Lingual can also be used to save 'dying languages' by offering them as a language to learn. By such languages to the options offered on Lingual, there is potential to receive support in the form of government funding to help with the effort to revitalize the languages. 
+
+Lingual in the long term can be continually expanded to include more lessons to increase user's fluency of a chosen language. With the inclusion of more lessons it will continue to engage users who have successfully completed all lessons for a given language. With the potential growth of adding new languages, and lessons, Lingual can continue to provide users a helpful tool in learning a language.

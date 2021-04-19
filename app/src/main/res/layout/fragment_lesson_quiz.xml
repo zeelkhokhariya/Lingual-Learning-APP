@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".presentation.lessonfragments.ParagraphLessonFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/lmod_quiz_text_heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:text="Heading"
+        android:textIsSelectable="true"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lmod_quiz_text_question"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:text="Question"
+        android:textIsSelectable="true"
+        android:textSize="24sp" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/lmod_quiz_layout_answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp">
+
+        <Button
+            android:id="@+id/lmod_quiz_button_reveal"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:insetTop="0dp"
+            android:insetBottom="0dp"
+            android:text="@string/lmod_quiz_reveal"
+            android:textSize="28sp"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="@+id/lmod_quiz_layout_contents"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/lmod_quiz_layout_contents" />
+
+        <LinearLayout
+            android:id="@+id/lmod_quiz_layout_contents"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:id="@+id/lmod_quiz_text_answer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Answer"
+                android:textIsSelectable="true"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/lmod_quiz_button_next"
+                style="@style/Widget.MaterialComponents.Button.TextButton"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_gravity="right"
+                android:text="@string/lmod_quiz_next" />
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>

@@ -1,0 +1,103 @@
+.testimonials-parallax-header {
+    min-height: 400px;
+    margin-bottom: 45px;
+}
+
+.services-parallax-header {
+    min-height: 700px;
+    display: flex;
+    align-items: center;
+    margin-top: 42px;
+    margin-bottom: 22px;
+}
+
+.testimonials-header {
+    padding: 55px 15px 50px;
+}
+
+.services-header {
+    position: relative;
+    z-index: 102;
+    width: 100%;
+}
+
+.services-page-title {
+    font-size: 2.8rem;
+    padding-bottom: 37px;
+}
+
+.testimonials-section {
+    padding-top: 45px;
+    padding-bottom: 90px;
+    margin-left: -35px;
+    margin-right: -35px;
+}
+
+.slick-dots {
+    bottom: -88px;
+}
+
+.slick-slide {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.testimonial-box {
+    padding: 60px 30px 85px;
+    min-height: 801px;
+}
+
+.person-img-container {
+    margin-bottom: 63px;
+}
+
+.person-img-container img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+}
+
+.about-name {
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.about-description {
+    margin-bottom: 30px;
+    line-height: 1.8;
+}
+
+.slick-dots li {
+    margin: 8px;
+}
+
+.slick-dots li, .slick-dots li button {
+    width: 30px;
+    height: 30px;
+}
+
+.slick-dots li button {
+    font-family: "Font Awesome 5 Free";
+    font-size: 1.6em;
+    font-weight: 900;
+}
+
+.slick-dots li, .slick-dots li button {
+    width: 30px;
+    height: 30px;
+}
+
+.slick-dots li.slick-active button:before {
+    opacity: 0.85;
+}
+
+.slick-dots li button:before {
+    font-family: inherit;
+    font-size: inherit;
+    content: "\f45c";
+    opacity: 0.5;
+}
+
+.slick-dots li button:hover:before, .slick-dots li button:focus:before {
+    opacity: 1;
+}

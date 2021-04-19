@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Main App Theme -->
+    <color name="lingual_blue_hi">#d7f1fc</color>
+    <color name="lingual_blue_mid">#68a1ba</color>
+    <color name="lingual_blue_low">#2a5685</color>
+    <color name="lingual_pink_hi">#fce1e1</color>
+    <color name="lingual_pink_mid">#ffabab</color>
+    <color name="lingual_pink_low">#9e005c</color>
+
+    <!-- FlashcardActivity -->
+    <color name="flash_wrong">#942a26</color>
+    <color name="flash_right">#289426</color>
+    <color name="flash_blocker">#aaaaaa</color>
+</resources>

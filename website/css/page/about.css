@@ -1,0 +1,67 @@
+.tabs-container {
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 135px;
+}
+
+.tab-links {
+    margin-right: 40px;
+    width: 380px;
+}
+
+.tab-contents {
+    width: calc(100% - 420px);
+}
+
+#services .tabs {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#services .tabs li {
+    margin-bottom: 36px;
+}
+
+#services .tabs .active, #services .tabs a:hover {
+    border-color: white;
+    color: #fff!important;
+}
+
+#services .tabs a {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    background-color: rgba(15, 29, 32, 0.77);
+    border: 1px solid rgba(15, 29, 32, 0.77);
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 30px;
+    transition: all 0.3s;
+}
+
+#services .tabs .icon-wrap {
+    width: 75px;
+    height: 75px;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 30px;
+}
+
+#first-tab-group > div {
+    background-color: rgba(15, 29, 32, 0.77);
+    color: white;
+    padding: 45px 60px;
+    min-height: 423px;
+}
+
+.service-tab-title, .service-tab-p {
+    margin-bottom: 40px;
+}

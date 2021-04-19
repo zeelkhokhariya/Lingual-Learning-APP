@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Lingual</string>
+
+    <!-- App-Wide Use -->
+    <plurals name="app_lessons">
+        <item quantity="one">%d lesson</item>
+        <item quantity="other">%d lessons</item>
+    </plurals>
+    <plurals name="app_cards">
+        <item quantity="one">%d card</item>
+        <item quantity="other">%d cards</item>
+    </plurals>
+    <plurals name="app_minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <string name="dictionary_lookup">Search selected text in dictionary</string>
+    <string name="no_text_selected">There is no selected text</string>
+
+    <!-- LanguageListActivity -->
+    <string name="lang_prompt">Select a Language</string>
+    <string name="lang_reset_database_menu">Reset database</string>
+    <string name="lang_reset_database_title">Database Reset</string>
+    <string name="lang_reset_database_message">Are you sure you want to reset the database to its default state?</string>
+
+    <!-- LearnOrReviewActivity -->
+    <string name="lor_credits">Content credits</string>
+    <string name="lor_learn">Learn</string>
+    <string name="lor_review">Review</string>
+    <string name="lor_count_default">Error: Count unavailable</string>
+    <plurals name="lor_lessons_unlocked">
+        <item quantity="one">%d lesson unlocked</item>
+        <item quantity="other">%d lessons unlocked</item>
+    </plurals>
+    <plurals name="lor_minutes_remaining">
+        <item quantity="one">(~%d minute remaining)</item>
+        <item quantity="other">(~%d minutes remaining)</item>
+    </plurals>
+    <plurals name="lor_cards_due">
+        <item quantity="one">%d card due</item>
+        <item quantity="other">%d cards due</item>
+    </plurals>
+
+    <!-- FlashcardActivity -->
+    <string name="flash_wrong">Wrong</string>
+    <string name="flash_right">Right</string>
+    <string name="flash_blocker">Reveal</string>
+    <string name="flash_no_card">Error: No flashcard loaded</string>
+    <plurals name="flash_cards_remaining">
+        <item quantity="one">%d card remaining</item>
+        <item quantity="other">%d cards remaining</item>
+    </plurals>
+
+    <!-- LessonListActivity -->
+    <string name="less_list_prompt">Select a Lesson</string>
+
+    <!-- LessonActivity -->
+    <string name="less_complete">Complete Lesson</string>
+
+    <!-- Lesson Modules -->
+    <string name="lmod_quiz_reveal">Reveal Answer</string>
+    <string name="lmod_quiz_next">Next Question</string>
+    <string name="lmod_quiz_finished">Quiz complete!</string>
+
+    <!-- Flashcard Reminder -->
+    <string name="freminder_notification_title">Lingual Flashcard Reminder</string>
+    <plurals name="freminder_notification_description">
+        <item quantity="one">You have %d flashcard due.</item>
+        <item quantity="other">You have %d flashcards due.</item>
+    </plurals>
+</resources>

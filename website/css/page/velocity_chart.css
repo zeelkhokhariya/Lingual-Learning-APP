@@ -1,0 +1,21 @@
+#velocity_chart {
+    padding-top: 30px;
+    padding-bottom: 68px;
+}
+
+.velocity_chart-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.velocity_chart-left {
+    min-width: 620px;
+    margin-right: 40px;
+}
+
+.velocity_chart-left img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

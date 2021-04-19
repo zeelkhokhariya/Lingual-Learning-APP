@@ -1,0 +1,131 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+    <path
+        android:fillColor="#fff"
+        android:name="Base"
+        android:pathData="m128.5 0c70.69 0 128 57.31 128 128c0 70.69 -57.31 128 -128 128c-70.69 0 -128 -57.31 -128 -128c0 -70.69 57.31 -128 128 -128z" />
+    <path
+        android:fillColor="#0a8901"
+        android:name="Green"
+        android:pathData="m7.9 171c17.67 49.54 64.99 85 120.6 85c55.61 0 102.93 -35.46 120.6 -85z" />
+    <path
+        android:fillColor="#ff9a30"
+        android:name="Saffron"
+        android:pathData="m128.5 0c-55.61 0 -102.93 35.46 -120.6 85h241.2c-17.67 -49.54 -64.99 -85 -120.6 -85z" />
+    <path
+        android:fillColor="#000089"
+        android:name="WheelOuterBlue"
+        android:pathData="m127.55 91.66c20.26 0 36.68 16.42 36.68 36.68c0 20.26 -16.42 36.68 -36.68 36.68c-20.26 0 -36.68 -16.42 -36.68 -36.68c0 -20.26 16.42 -36.68 36.68 -36.68z" />
+    <path
+        android:fillColor="#fff"
+        android:name="WheelWhite"
+        android:pathData="m128.15 96.97c17.42 0 31.54 14.12 31.54 31.54c0 17.42 -14.12 31.54 -31.54 31.54c-17.42 0 -31.54 -14.12 -31.54 -31.54c0 -17.42 14.12 -31.54 31.54 -31.54z" />
+    <path
+        android:fillColor="#000089"
+        android:name="WheelInnerBlue"
+        android:pathData="m128 118.44c5.17 0 9.36 4.19 9.36 9.36c0 5.17 -4.19 9.36 -9.36 9.36c-5.17 0 -9.36 -4.19 -9.36 -9.36c0 -5.17 4.19 -9.36 9.36 -9.36z" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1"
+        android:pathData="m128.1 96.13 2.03 16.25 -1.46 6.25h-1.46l-1.46 -6.25l2.03 -16.25" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m136.35 97.24 -2.25 16.22 -3.03 5.66 -1.41 -0.38 0.21 -6.41 6.16 -15.17" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m144.02 100.45 -6.37 15.09 -4.39 4.68 -1.26 -0.73 1.86 -6.14 9.88 -13.06" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m150.61 105.53 -10.06 12.92 -5.45 3.39 -1.03 -1.03 3.39 -5.45 12.92 -10.06" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m155.65 112.15 -13.06 9.88 -6.14 1.86 -0.73 -1.26 4.68 -4.39 15.09 -6.37" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m158.81 119.85 -15.17 6.16 -6.41 0.21 -0.38 -1.41 5.66 -3.03 16.22 -2.25" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m159.87 128.1 -16.25 2.03 -6.25 -1.46v-1.46l6.25 -1.46l16.25 2.03" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m158.76 136.35 -16.22 -2.25 -5.66 -3.03 0.38 -1.41 6.41 0.21 15.17 6.16" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m155.55 144.02 -15.09 -6.37 -4.68 -4.39 0.73 -1.26 6.14 1.86 13.06 9.88" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m150.47 150.61 -12.92 -10.06 -3.39 -5.45 1.03 -1.03 5.45 3.39 10.06 12.92" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m143.85 155.65 -9.88 -13.06 -1.86 -6.14 1.26 -0.73 4.39 4.68 6.37 15.09" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m136.15 158.81 -6.16 -15.17 -0.21 -6.41 1.41 -0.38 3.03 5.66 2.25 16.22" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m127.9 159.87 -2.03 -16.25 1.46 -6.25h1.46l1.46 6.25l-2.03 16.25" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m119.65 158.76 2.25 -16.22 3.03 -5.66 1.41 0.38 -0.21 6.41 -6.16 15.17" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m111.98 155.55 6.37 -15.09 4.39 -4.68 1.26 0.73 -1.86 6.14 -9.88 13.06" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m105.39 150.47 10.06 -12.92 5.45 -3.39 1.03 1.03 -3.39 5.45 -12.92 10.06" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m100.35 143.85 13.06 -9.88 6.14 -1.86 0.73 1.26 -4.68 4.39 -15.09 6.37" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m97.19 136.15 15.17 -6.16 6.41 -0.21 0.38 1.41 -5.66 3.03 -16.22 2.25" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m96.12 127.9 16.25 -2.03 6.25 1.46 0 1.46 -6.25 1.46 -16.25 -2.03" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m97.24 119.65 16.22 2.25 5.66 3.03 -0.38 1.41 -6.41 -0.21 -15.17 -6.16" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m100.45 111.98 15.09 6.37 4.68 4.39 -0.73 1.26 -6.14 -1.86 -13.06 -9.88" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m105.53 105.39 12.92 10.06 3.39 5.45 -1.03 1.03 -5.45 -3.39 -10.06 -12.92" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m112.15 100.35 9.88 13.06 1.86 6.14 -1.26 0.73 -4.39 -4.68 -6.37 -15.09" />
+    <path
+        android:fillColor="#000089"
+        android:name="Spoke1 copy"
+        android:pathData="m119.85 97.19 6.16 15.17 0.21 6.41 -1.41 0.38 -3.03 -5.66 -2.25 -16.22" />
+    <path
+        android:fillColor="#000"
+        android:fillAlpha="0.1"
+        android:name="Outline"
+        android:pathData="m-0.33 127.67c0 70.58 57.42 128 128 128c70.58 0 128 -57.42 128 -128c0 -70.58 -57.42 -128 -128 -128c-70.58 0 -128 57.42 -128 128zm10.24 0c0 -64.93 52.83 -117.76 117.76 -117.76c64.93 0 117.76 52.83 117.76 117.76c0 64.93 -52.83 117.76 -117.76 117.76c-64.93 0 -117.76 -52.83 -117.76 -117.76z" />
+</vector>
